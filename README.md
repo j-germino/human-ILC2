@@ -1,3 +1,5 @@
+# human-ILC2
+
 Analysis of human ILC2 scRNA-seq data in the small intestine for *"Spatial and functional compartmentalization of small intestinal group 2 innate lymphoid cells"* (in preparation)
 
 - Code to run various steps of the analysis pipline is contained in /code <br>
